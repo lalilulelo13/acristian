@@ -1,14 +1,12 @@
-baseURL: "https://tender-agnesi-66d0da.netlify.app/"
-languageCode: "en-us"
-title: "Hugo Novela"
-pygmentsstyle: 'monokai'
+---
+baseURL: https://tender-agnesi-66d0da.netlify.app/
+languageCode: en-us
+title: Hugo Novela
+pygmentsstyle: monokai
 metaDataFormat: yaml
-
-# Theme settings
-# theme: novela
 module:
   imports:
-    - path: "github.com/forestryio/hugo-theme-novela"
+  - path: github.com/forestryio/hugo-theme-novela
 paginate: 6
 social:
   twitter: "#"
