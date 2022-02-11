@@ -1,15 +1,15 @@
 ---
 title: "“Cristiani no tuvo conocimiento de la masacre que se iba a perpetrar”, dice
   Tojeira."
-date: 2017-04-30
+date: 2022-02-11T06:00:00+00:00
 hero: "/images/martires-uca-jardin-rosas_2287281260_15086229_667x375.jpg"
-excerpt: El sacerdote jesuita y ahora director del Instituto de Derechos Humanos de
-  la Universidad (IDHUCA) reveló en el 2017 que retiraría toda acusación contra Alfredo
-  Cristiani.
+excerpt: ''
 timeToRead: 3
 authors: []
 
 ---
+**El sacerdote jesuita y ahora director del Instituto de Derechos Humanos de la Universidad (IDHUCA) reveló en el 2017 que retiraría toda acusación contra Alfredo Cristiani.**
+
 La UCA solicitó el sobreseimiento del exmandatario salvadoreño por considerar que él no tuvo conocimiento de la masacre que iban a perpetrar un grupo de militares el 16 de noviembre del 1989.
 
 Durante la entrevista del programa República SV de Canal 33, realizada en 2017, José María Tojeira aseguró que pedirían reabrir el caso jesuita, en el cual se involucran a miembros del Alto Mando y del Estado Mayor Conjunto, junto a elementos de la Fuerza Armada, como autores intelectuales y materiales de la masacre de los sacerdotes.
