@@ -7,6 +7,8 @@ date: 2022-02-14T06:00:00+00:00
 draft: true
 
 ---
+**![](/images/51281971_101-1.jpg)**
+
 **En el 2008, organizaciones de defensa de los derechos humanos denunciaron a Alfredo Cristiani ante la Audiencia Nacional Española, supuestamente por encubrir a los asesinos de seis sacerdotes jesuitas.**
 
 El hecho ocurrió 16 de noviembre de 1989 en el recinto universitario de la Universidad Centroamericana (UCA), donde fueron asesinados el rector, Ignacio Ellacuría, Amando López, Juan Ramón Moreno, Segundo Montes e Ignacio Martín Baró, así como el salvadoreño Joaquín López y López, la cocinera Elba Julia Ramos y su hija Celina, de 16 años.
