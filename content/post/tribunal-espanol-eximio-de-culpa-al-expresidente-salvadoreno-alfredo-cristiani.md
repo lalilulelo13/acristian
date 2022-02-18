@@ -5,7 +5,6 @@ title: Tribunal español eximió de culpa al expresidente salvadoreño Alfredo C
 excerpt: ''
 date: 2022-02-14T06:00:00+00:00
 post_cover: "/images/nuevaimagen.jpg"
-draft: true
 
 ---
 **En el 2008, organizaciones de defensa de los derechos humanos denunciaron a Alfredo Cristiani ante la Audiencia Nacional Española, supuestamente por encubrir a los asesinos de seis sacerdotes jesuitas.**
