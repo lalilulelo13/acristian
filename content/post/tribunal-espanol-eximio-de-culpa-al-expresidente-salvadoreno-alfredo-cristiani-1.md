@@ -3,7 +3,7 @@ title: Tribunal español eximió de culpa al expresidente salvadoreño Alfredo C
 date: 2022-02-11T06:00:00.000+00:00
 hero: "/images/martires-uca-jardin-rosas_2287281260_15086229_667x375.jpg"
 excerpt: ''
-timeToRead: 3
+timeToRead: 4
 authors: []
 post_cover: "/images/51281971_101-1.jpg"
 
