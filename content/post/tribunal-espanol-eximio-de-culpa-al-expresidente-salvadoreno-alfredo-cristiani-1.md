@@ -5,6 +5,7 @@ hero: "/images/martires-uca-jardin-rosas_2287281260_15086229_667x375.jpg"
 excerpt: ''
 timeToRead: 3
 authors: []
+post_cover: "/images/51281971_101-1.jpg"
 
 ---
 **El sacerdote jesuita y ahora director del Instituto de Derechos Humanos de la Universidad (IDHUCA) reveló en el 2017 que retiraría toda acusación contra Alfredo Cristiani.**
