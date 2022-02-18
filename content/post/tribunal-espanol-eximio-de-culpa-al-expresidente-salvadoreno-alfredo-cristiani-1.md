@@ -5,25 +5,33 @@ hero: "/images/martires-uca-jardin-rosas_2287281260_15086229_667x375.jpg"
 excerpt: ''
 timeToRead: 4
 authors: []
-post_cover: "/images/51281971_101-1.jpg"
+post_cover: "/images/51281971_101.jpg"
 
 ---
-**El sacerdote jesuita y ahora director del Instituto de Derechos Humanos de la Universidad (IDHUCA) reveló en el 2017 que retiraría toda acusación contra Alfredo Cristiani.**
+**En el 2008, organizaciones de defensa de los derechos humanos denunciaron a Alfredo Cristiani ante la Audiencia Nacional Española, supuestamente por encubrir a los asesinos de seis sacerdotes jesuitas.**
 
-La UCA solicitó el sobreseimiento del exmandatario salvadoreño por considerar que él no tuvo conocimiento de la masacre que iban a perpetrar un grupo de militares el 16 de noviembre del 1989.
+El hecho ocurrió 16 de noviembre de 1989 en el recinto universitario de la Universidad Centroamericana (UCA), donde fueron asesinados el rector, Ignacio Ellacuría, Amando López, Juan Ramón Moreno, Segundo Montes e Ignacio Martín Baró, así como el salvadoreño Joaquín López y López, la cocinera Elba Julia Ramos y su hija Celina, de 16 años.
 
-Durante la entrevista del programa República SV de Canal 33, realizada en 2017, José María Tojeira aseguró que pedirían reabrir el caso jesuita, en el cual se involucran a miembros del Alto Mando y del Estado Mayor Conjunto, junto a elementos de la Fuerza Armada, como autores intelectuales y materiales de la masacre de los sacerdotes.
+De esta masacre, se acusaron a miembros del Alto Mando y del Estado Mayor Conjunto. La responsabilidad recayó sobre nueves militares, por ser los autores materiales, no así a los autores intelectuales.
 
-Según Tojeria, a Alfredo Cristiani “no se le informó que iban a matar a los jesuitas, por lo que pedirían (el Idhuca) el sobreseimiento para él”, por lo que quedaría fuera en la reapertura del caso.
+Al expresidente Cristiani, comandante en jefe de las Fuerzas Armadas salvadoreñas y se le acusaba de ser "cómplice" por "encubrir" el crimen, pese a que su nombre no figuraba en el informe de la Comisión de la Verdad.
 
-Esta noticia, nunca ha sido del agrado para un grupo de personas interesadas en declararlo culpable y desde entonces han tratado de politizarlo, aún cuando el informe de la Comisión de la Verdad, también lo exime de este horrendo crimen.
+[http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf](http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf "http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf")
 
-Dicha investigación identificó a los perpetradores que fueron arrestados para ser juzgados y declarados culpables en 1992, entre ellos un coronel y otros dos oficiales, recalca la Comisión de la Verdad en la página. 44. [http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf](http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf "http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf")
+sin embargo, durante el juicio librado en España, se presentaron cargos contra un total de quince personas. Estos cargos fueron aceptados por el juez de la Audiencia Nacional en España solo contra catorce personas.
 
-El padre Tojeira, reitera que, con la reapertura del caso jesuitas, se busca llegar a la verdad judicial, opinión que comparte el padre Andreu Oliva, rector de la universidad, por considerar que “el primer proceso fue una farsa”.
+Los cargos atribuidos a Alfredo Cristiani fueron rechazados por el juez alegando que no había evidencia para respaldar ningún reclamo en su contra. En ese mismo proceso, el juez español solicitó a la Corte Suprema salvadoreña la extradición de las catorce personas presuntamente involucradas en la masacre, el expresidente no estaba incluído en esa lista de extradición.
 
-Recientemente, el gobierno de Nayib Bukele, quien se caracteriza por atacar deliberadamente a la UCA, anunció que reabriría el caso. Sobre esto, las autoridades de la casa de estudio reaccionaron y pidieron que no deben haber injerencias políticas y ante todo se debe respetar el debido proceso y todas las garantías para que sea un proceso limpio y transparente.
+Asimismo, en el 2017, el director del Instituto de Derechos Humanos de la Universidad (IDHUCA), José María Tojeira dijo “el expresidente de la República Alfredo Cristiani no tuvo conocimiento de la masacre que se iba a perpetrar, por lo que pedirían el sobreseimiento para él”.
 
-En la cadena nacional del 22 de enero de este año, Nayib Bukele sentenció públicamente a Alfredo Cristiani, acusándolo de haber ordenado la masacre y que no toleraría impunidad.
+Con ello, tanto las autoridades salvadoreñas como la española, eximen de responsabilidad al expresidente y ante la apertura del caso, las autoridades de la UCA han solicitado al gobierno de Nayib Bukele no politizarlo.
 
-Para los analistas políticos y organizaciones de la sociedad civil, estas declaraciones del mandatario obedecen a la falta de popularidad y busca llamar la atención hacia este caso, pero deja en impunidad la masacre de El Mozote, donde también hay militares involucrados.
+**Más oficiales involucrados**
+
+Para las autoridades universitarias, habían más involucrados en el asesinato de los clérigos españoles y finalmente las investigaciones revelaron los nombres de cinco militares.
+
+En enero de 2016, el juez de la Audiencia Nacional española Eloy Velasco envió una nueva petición a Interpol para la captura de los militares salvadoreños retirados.
+
+Un mes después, la policía salvadoreña informó de la captura de cuatro oficiales, entre ellos Guillermo Alfredo Benavides Moreno, Antonio Ramiro Ávalos Vargas, Ángel Pérez Vásquez y Tomás Zárpate Castillo.
+
+En el 2020 , la Corte española condenó en al exviceministro de Seguridad Pública (1989-1992), Inocente Orlando como responsable, en concepto de autor, por cinco delitos de asesinato terrorista”, [https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-133-anos-de-carcel-al-exviceministro-de-Seguridad-Publica-del-Ejercito-de-El-Salvador-por-el-asesinato-de-cinco-jesuitas-en-1989?s=08](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-133-anos-de-carcel-al-exviceministro-de-Seguridad-Publica-del-Ejercito-de-El-Salvador-por-el-asesinato-de-cinco-jesuitas-en-1989?s=08 "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-133-anos-de-carcel-al-exviceministro-de-Seguridad-Publica-del-Ejercito-de-El-Salvador-por-el-asesinato-de-cinco-jesuitas-en-1989?s=08")
